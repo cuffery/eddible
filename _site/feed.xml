@@ -6,279 +6,252 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Full and Comprehensive Style Test</title>
-				<description>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+				<title>125 Things I Learned From Zero To One</title>
+				<description>
+&lt;p&gt;I just finished reading Peter Thiel’s classic work yesterday, and thought to compile my Kindle highlights with my brief remarks for both sharing and self-reflection purposes. You will find Thiel’s opinions in quote below and my remarks under some of them.&lt;/p&gt;
 
-&lt;h1 id=&quot;body-text&quot;&gt;Body text&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;#&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget &lt;code class=&quot;highlighter-rouge&quot;&gt;COPY filename&lt;/code&gt; sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; commodo vitae, feugiat in, nunc. Morbi imperdiet augue &lt;mark&gt;mark element&lt;/mark&gt; quis tellus.&lt;/p&gt;
-
-&lt;h1 id=&quot;images&quot;&gt;Images&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;Large example image&quot; title=&quot;Large example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;Medium example image&quot; title=&quot;Medium example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;Small example image&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;list-types&quot;&gt;List Types&lt;/h1&gt;
-
-&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
+&lt;p&gt;Overall, an incredibly insightful book with a lot points echoed by numerous entrepreneurs I’ve met through my time in Princeton. Worth re-reading later.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Item one
-    &lt;ol&gt;
-      &lt;li&gt;sub item one&lt;/li&gt;
-      &lt;li&gt;sub item two&lt;/li&gt;
-      &lt;li&gt;sub item three&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Brilliant thinking is rare, but courage is in even shorter supply than genius&lt;/li&gt;
+  &lt;li&gt;Positively defined, a startup is the largest group of people you can convince of a plan to build a different future.
+a. Which is probably true, given how communications and execution are key to early success, and you can only have both within small groups&lt;/li&gt;
+  &lt;li&gt;“Madness is rare in individuals — but in groups, parties, nations, and ages it is the rule,” Nietzsche wrote (before he went mad). If you can identify a delusional popular belief, you can find what lies hidden behind it: the contrarian truth.
+a. It neatly ties back to his point on cult later.&lt;/li&gt;
+  &lt;li&gt;The first step to thinking clearly is to question what we think we know about the past.
+a. Yes, always great to look at history for lessons!&lt;/li&gt;
+  &lt;li&gt;So the backdrop for the short-lived dot-com mania that started in September 1998 was a world in which nothing else seemed to be working.
+a. Really? I think Thiel is great, but sometimes he tends to over-exaggerate to get his point across; for instance, maybe those generational traits are true, but to say nothing else seemed to be working in the late 90s just doesn’t sit very well with me. At least you had a rapidly growing China!&lt;/li&gt;
+  &lt;li&gt;By indirect proof, the New Economy of the internet was the only way forward.
+a. Maybe, but technologies are still very much advancing in other fields too; they just don’t attract big media attention or big money most of the time.&lt;/li&gt;
+  &lt;li&gt;For PayPal to work, we needed to attract a critical mass of at least a million users.
+a. I’m curious, how did Thiel come up with the number “1 million” — why can’t it be 100,000? What’s so magical about 1 million? Or is it just his hunch, backed up by his experience (which didn’t seem so abundant at the time of PayPal’s founding anyways)&lt;/li&gt;
+  &lt;li&gt;own — when you pay people to be your customers, exponential growth means an exponentially growing cost structure. Crazy
+a. very true; always key to test at the beginning if people are willing to pay for your service/product! Paying for people to become your clients/customers just doesn’t work in long term, or now, when the easy money is gone.&lt;/li&gt;
+  &lt;li&gt;“Make incremental advances”; “Small, incremental steps are the only safe path forward.” ?
+a. Thiel seemed pretty critical about the idea of incremental change because it allegedly doesn’t offer companies the proprietary power or is not pivotal enough; it’s highly debatable.&lt;/li&gt;
+  &lt;li&gt;Stay lean and flexible
+a. Said times and over; don’t get too caught up in the frivolous Silicon Valley perks or over-pay your executives or yourself; keep cash burn at minimum.&lt;/li&gt;
+  &lt;li&gt;you should try things out, “iterate”&lt;/li&gt;
+  &lt;li&gt;It is better to risk boldness than triviality.
+a. It’s another place Thiel seemed to be contradicting himself when he said you should focus on small market/niche segment first and then you need to “think big” — which I find perfectly compatible.
+b. What he really means, as I understand it, is that you need to have a world-changing idea, an idea so big that it’s almost frightening to carry out. Then you need a very precisely defined roadmap, starting with a small market that you can monopolize and demonstrate proof of concept, based on which you can then expand horizontally into adjacent markets and eventually take over the entire world.&lt;/li&gt;
+  &lt;li&gt;A bad plan is better than no plan.&lt;/li&gt;
+  &lt;li&gt;Competitive markets destroy profits. Under perfect competition, in the long run no company makes an economic profit.
+a. It’s a key tenet in this book: competition is bad, seek monopoly whenever possible.
+b. SO TRUE.
+c. “if you want to create and capture lasting value, don’t build an undifferentiated commodity business.”&lt;/li&gt;
+  &lt;li&gt;Sales matters just as much as product.&lt;/li&gt;
+  &lt;li&gt;Creating value is not enough — you also need to capture some of the value you create.
+a. Exactly, many people overlook the need to capture value after creating value, which really should come hand in hand.&lt;/li&gt;
+  &lt;li&gt;Actually, capitalism and competition are opposites.&lt;/li&gt;
+  &lt;li&gt;Non-monopolists exaggerate their distinction by defining their market as the intersection of various smaller markets; Monopolists, by contrast, disguise their monopoly by framing their market as the union of several large markets:&lt;/li&gt;
+  &lt;li&gt;The competitive ecosystem pushes people toward ruthlessness or death.
+a. Well, sometimes competition benefits consumers by pushing the technology boundary and keeping the cost low; but to suppliers, it’s detrimental. It matters whose perspective we are taking.&lt;/li&gt;
+  &lt;li&gt;but it’s also characteristic of a kind of business that’s successful enough to take ethics seriously without jeopardizing its own existence.
+a. Right, so don’t get too caught up in the social mission?
+b. What about so many companies that succeeded precisely because of their social drive, other than money? Like Rubicon? Like Zipcar?&lt;/li&gt;
+  &lt;li&gt;money is either an important thing or it is everything.
+a. Probably the point I agree with most in this book, in the context of a startup company.&lt;/li&gt;
+  &lt;li&gt;Only one thing can allow a business to transcend the daily brute struggle for survival: monopoly profits.
+a. The pursuit of monopoly is really the central theme of the first half of the book.&lt;/li&gt;
+  &lt;li&gt;Creative monopolies aren’t just good for the rest of society; they’re powerful engines for making it better.
+a. Recall benevolent dictators?&lt;/li&gt;
+  &lt;li&gt;A state in which all energy is evenly distributed and everything comes to rest — also known as the heat death of the universe.
+a. A pond with no moving water is dead, in an old Chinese saying.&lt;/li&gt;
+  &lt;li&gt;All Rhodes Scholars had a great future in their past.
+a. LOL.&lt;/li&gt;
+  &lt;li&gt;According to Marx, people fight because they are different. The proletariat fights the bourgeoisie because they have completely different ideas and goals (generated, for Marx, by their very different material circumstances). The greater the differences, the greater the conflict. To Shakespeare, by contrast, all combatants look more or less alike. It’s not at all clear why they should be fighting, since they have nothing to fight about.
+a. Interesting take on why people fight each other; I’m not sure if I buy this dichotomy though?&lt;/li&gt;
+  &lt;li&gt;But a great business is defined by its ability to generate cash flows in the future.
+a. Which inevitably necessitates its solving a real, hard problem.&lt;/li&gt;
+  &lt;li&gt;The overwhelming importance of future profits is counterintuitive even in Silicon Valley. For a company to be valuable it must grow and endure, but many entrepreneurs focus only on short-term growth.
+a. True; but given how VCs put pressure on the founders to have good “exits”, I’m not entirely sure if the criticism is warranted. The incentive between VCs and founders are sometimes misaligned I think.&lt;/li&gt;
+  &lt;li&gt;They have an excuse: growth is easy to measure, but durability isn’t.
+a. But what is durability? The ability to defend the market position and deter potential competitors? The ability to keep growing? Durability is hard to measure partly because there is not a clear definition of it to begin with.&lt;/li&gt;
+  &lt;li&gt;you miss the most important question you should be asking: will this business still be around a decade from now?
+a. Thiel echoes this point throughout the book, which stresses his long-term focus: it’s imperative to have a roadmap that covers long enough a horizon.&lt;/li&gt;
+  &lt;li&gt;Every monopoly is unique, but they usually share some combination of the following characteristics: proprietary technology, network effects, economies of scale, and branding.
+a. Great categorization/summary.&lt;/li&gt;
+  &lt;li&gt;Anything less than an order of magnitude better will probably be perceived as a marginal improvement and will be hard to sell
+a. Again, Thiel using very rough gauge — how can you even measure if a thing is “10x better” than others? I think the feeling is more about “transformative” or “disruptive” potential: a 2x better product may make you feel more convenient immediately, but a 10x product will awe you instantly.&lt;/li&gt;
+  &lt;li&gt;Unilaterally choosing a different social network would only make you an eccentric.
+a. LOL at all the people on Google+&lt;/li&gt;
+  &lt;li&gt;Network effects can be powerful, but you’ll never reap them unless your product is valuable to its very first users when the network is necessarily small.
+a. This is to say, everybody covets network effect but you need great product to actually get the snowball started first.&lt;/li&gt;
+  &lt;li&gt;Paradoxically, then, network effects businesses must start with especially small markets.
+a. Great insight — you need proof of concept anyways&lt;/li&gt;
+  &lt;li&gt;This is why successful network businesses rarely get started by MBA types: the initial markets are so small that they often don’t even appear to be business opportunities at all.
+a. Hmmm, I don’t know — I’m pretty sure there’s selection bias too: people who do MBAs are usually not the most innovative or entrepreneurial to begin with.&lt;/li&gt;
+  &lt;li&gt;Service businesses especially are difficult to make monopolies.
+a. Because of low barrier of entry?&lt;/li&gt;
+  &lt;li&gt;A company has a monopoly on its own brand by definition, so creating a strong brand is a powerful way to claim a monopoly.
+a. Yep, but it’s just part of the story — you always need substance to back up your branding claim; otherwise it will wane.&lt;/li&gt;
+  &lt;li&gt;But these techniques for polishing the surface don’t work without a strong underlying substance.
+a. Echoing my point above&lt;/li&gt;
+  &lt;li&gt;No technology company can be built on branding alone.
+a. indeed&lt;/li&gt;
+  &lt;li&gt;Always err on the side of starting too small… This is why it’s always a red flag when entrepreneurs talk about getting 1% of a $100 billion market.
+a. Contradicting what JP said in class about dreaming ultra big?&lt;/li&gt;
+  &lt;li&gt;Jeff Bezos’s founding vision was to dominate all of online retail, but he very deliberately started with books.
+a. Yep you gotta start small, but with an ultimately grandiose vision in mind.&lt;/li&gt;
+  &lt;li&gt;The most successful companies make the core progression — to first dominate a specific niche and then scale to adjacent markets — a part of their founding narrative.&lt;/li&gt;
+  &lt;li&gt;Originally, “disruption” was a term of art to describe how a firm can use new technology to introduce a low-end product at low prices, improve the product over time, and eventually overtake even the premium products offered by incumbent companies using older technology.
+a. Hmmm I think Thiel has much bias against disruption, partly because the term has been so commonly misused/abused by media/startups&lt;/li&gt;
+  &lt;li&gt;[if a startup’s value proposition can be] summed up by its opposition to already existing firms, it can’t be completely new and it’s probably not going to become a monopoly.
+a. GREAT INSIGHT&lt;/li&gt;
+  &lt;li&gt;But moving first is a tactic, not a goal. What really matters is generating cash flows in the future
+a. Whether it’s white or black, as long as it catches mice it’s a good cat.&lt;/li&gt;
+  &lt;li&gt;Grandmaster José Raúl Capablanca put it well: to succeed, “you must study the endgame before everything else.”
+a. Again, emphasizing the need for a grand vision&lt;/li&gt;
+  &lt;li&gt;“Shallow men believe in luck, believe in circumstances.… Strong men believe in cause and effect.”
+a. LOL — #checkyourprivilege&lt;/li&gt;
+  &lt;li&gt;No one pretended that misfortune didn’t exist, but prior generations believed in making their own luck by working hard.
+a. Part of Thiel’s obsession with the previous generation’s mantle and myth; is it necessarily true? I doubt it (as a millennial)&lt;/li&gt;
+  &lt;li&gt;A definite view, by contrast, favors firm convictions.
+a. His central thesis for the second part of the book, you need to be a definite optimist&lt;/li&gt;
+  &lt;li&gt;Instead of pursuing many-sided mediocrity and calling it “well-roundedness,” a definite person determines the one best thing to do and then does it.&lt;/li&gt;
+  &lt;li&gt;she strives to be great at something substantive — to be a monopoly of one.&lt;/li&gt;
+  &lt;li&gt;Europeans just react to events as they happen and hope things don’t get worse.
+a. LOL what an astute observation on EU; but maybe they deserve some credits for the way they do things? I mean, western European countries don’t fight each other at least.&lt;/li&gt;
+  &lt;li&gt;the 1950s, Americans thought big plans for the future were too important to be left to experts.
+a. Hah, it was also an age of conmen. Thiel seemed to have fallen under rosy retrospection again.&lt;/li&gt;
+  &lt;li&gt;It’s no surprise that these fields (Wall St, consulting, PE) all attract disproportionate numbers of high-achieving Ivy League optionality chasers; what could be a more appropriate reward for two decades of résumé-building than a seemingly elite, process-oriented career that promises to “keep options open”?
+a. Ouch.&lt;/li&gt;
+  &lt;li&gt;Gladwell at first appears to be making a contrarian critique of the myth of the self-made businessman, but actually his own account encapsulates the conventional view of a generation.
+a. Right I actually think Gladwell is limited by his generational context as well.&lt;/li&gt;
+  &lt;li&gt;The philosophy of the ancient world was pessimistic: Plato, Aristotle, Epicurus, and Lucretius all accepted strict limits on human potential. The only question was how best to cope with our tragic fate.
+Modern philosophers have been mostly optimistic. From Herbert Spencer on the right and Hegel in the center to Marx on the left, the 19th century shared a belief in progress.&lt;/li&gt;
+  &lt;li&gt;Definite optimism works when you build the future you envision. Definite pessimism works by building what can be copied without expecting anything new.&lt;/li&gt;
+  &lt;li&gt;progress without planning is what we call “evolution.”&lt;/li&gt;
+  &lt;li&gt;But leanness is a methodology, not a goal.&lt;/li&gt;
+  &lt;li&gt;But the most important lesson to learn from Jobs has nothing to do with aesthetics.&lt;/li&gt;
+  &lt;li&gt;The power of planning explains the difficulty of valuing private companies.&lt;/li&gt;
+  &lt;li&gt;MONEY MAKES MONEY. “For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them” (Matthew 25:29).
+a. Amen.&lt;/li&gt;
+  &lt;li&gt;But this “spray and pray” approach usually produces an entire portfolio of flops, with no hits at all. This is because venture returns don’t follow a normal distribution overall. Rather, they follow a power law: a small handful of companies radically outperform all others. If you focus on diversification instead of single-minded pursuit of the very few companies that can become overwhelmingly valuable, you’ll miss those rare companies in the first place.&lt;/li&gt;
+  &lt;li&gt;This implies two very strange rules for VCs. First, only invest in companies that have the potential to return the value of the entire fund. This is a scary rule, because it eliminates the vast majority of possible investments. (Even quite successful companies usually succeed on a more humble scale.) This leads to rule number two: because rule number one is so restrictive, there can’t be any other rules.&lt;/li&gt;
+  &lt;li&gt;And once you think that you’re playing the lottery, you’ve already psychologically prepared yourself to lose.
+a. does this apply to stock markets?&lt;/li&gt;
+  &lt;li&gt;Every individual is unavoidably an investor, too. When you choose a career, you act on your belief that the kind of work you do will be valuable decades from now.&lt;/li&gt;
+  &lt;li&gt;You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
+a. GREAT INSIGHT for people choosing majors and careers.&lt;/li&gt;
+  &lt;li&gt;Every correct answer is necessarily a secret: something important and unknown, something hard to do but doable. If&lt;/li&gt;
+  &lt;li&gt;This is the classic trichotomy of the easy, the hard, and the impossible. [talking about all the tasks/jobs in the world]&lt;/li&gt;
+  &lt;li&gt;71 doesn’t exist.&lt;/li&gt;
+  &lt;li&gt;Mistakes with the conventional wisdom: First is incrementalism. Second is risk aversion. Third is complacency. Social elites have the most freedom and ability to explore new thinking, but they seem to believe in secrets the least. Fourth is “flatness.” As globalization advances, people perceive the world as one homogeneous, highly competitive marketplace: the world is “flat.”&lt;/li&gt;
+  &lt;li&gt;What secrets is nature not telling you? What secrets are people not telling you?
+a. Always good question to ask when determining one’s pursuit&lt;/li&gt;
+  &lt;li&gt;So when thinking about what kind of company to build, there are two distinct questions to ask: What secrets is nature not telling you? What secrets are people not telling you?&lt;/li&gt;
+  &lt;li&gt;So you might ask: are there any fields that matter but haven’t been standardized and institutionalized?&lt;/li&gt;
+  &lt;li&gt;As Faust tells Wagner:
+The few who knew what might be learned,
+Foolish enough to put their whole heart on show,
+And reveal their feelings to the crowd below,
+Mankind has always crucified and burned.&lt;/li&gt;
+  &lt;li&gt;Unless you have perfectly conventional beliefs, it’s rarely a good idea to tell everybody everything that you know.
+a. About keeping your competitive advantage a secret&lt;/li&gt;
+  &lt;li&gt;So who do you tell? Whoever you need to, and no more.
+a. GREAT PRACTICAL INSIGHT&lt;/li&gt;
+  &lt;li&gt;every great business is built around a secret that’s hidden from the outside. A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator.
+Still round the corner there may wait
+A new road or a secret gate,
+And though we pass them by today,
+Tomorrow we may come this way
+And take the hidden paths that run
+Towards the Moon or to the Sun.&lt;/li&gt;
+  &lt;li&gt;“Thiel’s law”: a startup messed up at its foundation cannot be fixed.&lt;/li&gt;
+  &lt;li&gt;Today, California has the same representation in the Senate as Alaska, even though it has more than 50 times as many people. Maybe that’s a feature, not a bug.
+a. Am I the only person find the last line funny?&lt;/li&gt;
+  &lt;li&gt;Choosing a co-founder is like getting married, and founder conflict is just as ugly as divorce.
+a. Very true! A point echoed by basically all our guest speakers for COS448&lt;/li&gt;
+  &lt;li&gt;It’s very hard to go from 0 to 1 without a team.
+a. And you need to seed your team well (all about recruiting the best first 10 people, and then good people attract each other. How do you get the first 10 people? Tap into your school’s/investors’ network!)&lt;/li&gt;
+  &lt;li&gt;it’s useful to distinguish between three concepts: • Ownership: who legally owns a company’s equity? • Possession: who actually runs the company on a day-to-day basis? • Control: who formally governs the company’s affairs?
+a. Key to avoid conflicts and assess situations&lt;/li&gt;
+  &lt;li&gt;In practice, distributing these functions among different people makes sense, but it also multiplies opportunities for misalignment.&lt;/li&gt;
+  &lt;li&gt;Most conflicts in a startup erupt between ownership and control.&lt;/li&gt;
+  &lt;li&gt;However, that very effectiveness means that a small board can forcefully oppose management in any conflict.&lt;/li&gt;
+  &lt;li&gt;A board of three is ideal. Your board should never exceed five people, unless your company is publicly held.&lt;/li&gt;
+  &lt;li&gt;If you want that kind of free rein from your board, blow it up to giant size. If you want an effective board, keep it small.
+a. GREAT INSIGHT. And both could be helpful depending on your situation.&lt;/li&gt;
+  &lt;li&gt;As a general rule, everyone you involve with your company should be involved full-time. Sometimes you’ll have to break this rule; it usually makes sense to hire outside lawyers and accountants, for example.&lt;/li&gt;
+  &lt;li&gt;However, anyone who doesn’t own stock options or draw a regular salary from your company is fundamentally misaligned.&lt;/li&gt;
+  &lt;li&gt;Ken Kesey was right: you’re either on the bus or off the bus.
+a. So true. Commitment matters, and you don’t want half-assed nonchalants.&lt;/li&gt;
+  &lt;li&gt;High pay incentivizes him to defend the status quo along with his salary, not to work with everyone else to surface problems and fix them aggressively.
+a. GREAT INSIGHT&lt;/li&gt;
+  &lt;li&gt;A cash-poor executive, by contrast, will focus on increasing the value of the company as a whole.&lt;/li&gt;
+  &lt;li&gt;So long as that figure is still modest, it sets an effective ceiling on cash compensation.
+a. Talking about how a CEO should either be paid the lowest or the highest. Both hve reasons and could work.&lt;/li&gt;
+  &lt;li&gt;Cash is attractive. It offers pure optionality: once you get your paycheck, you can do anything you want with it.&lt;/li&gt;
+  &lt;li&gt;It’s not liquid like cash. It’s tied to one specific company. And if that company doesn’t succeed, it’s worthless. Equity is a powerful tool precisely because of these limitations.&lt;/li&gt;
+  &lt;li&gt;only at the very start do you have the opportunity to set the rules that will align people toward the creation of value in the future.&lt;/li&gt;
+  &lt;li&gt;“Company culture” doesn’t exist apart from the company itself: no company has a culture; every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside…Why work with a group of people who don’t even like each other?&lt;/li&gt;
+  &lt;li&gt;But taking a merely professional view of the workplace, in which free agents check in and out on a transactional basis, is worse than cold: it’s not even rational.&lt;/li&gt;
+  &lt;li&gt;More important than those obvious offerings is your answer to this question: Why should the 20th employee join your company?&lt;/li&gt;
+  &lt;li&gt;You’ll attract the employees you need if you can explain why your mission is compelling: not why it’s important in general, but why you’re doing something important that no one else is going to get done.&lt;/li&gt;
+  &lt;li&gt;You should be able to explain why your company is a unique match for him personally. And if you can’t do that, he’s probably not the right match.&lt;/li&gt;
+  &lt;li&gt;But it’s also because job assignments aren’t just about the relationships between workers and tasks; they’re also about relationships between employees.&lt;/li&gt;
+  &lt;li&gt;The polar opposite business cliché warns that “the best product doesn’t always win.”&lt;/li&gt;
+  &lt;li&gt;Economists attribute this to “path dependence”: specific historical circumstances independent of objective quality can determine which products enjoy widespread adoption. That’s true, but it doesn’t mean the operating systems we use today and the keyboard layouts on which we type were imposed by mere chance. It’s&lt;/li&gt;
+  &lt;li&gt;Two metrics set the limits for effective distribution. The total net profit that you earn on average over the course of your relationship with a customer (Customer Lifetime Value, or CLV) must exceed the amount you spend on average to acquire a new customer (Customer Acquisition Cost,&lt;/li&gt;
+  &lt;li&gt;Advertising can work for startups, too, but only when your customer acquisition costs and customer lifetime value make every other distribution channel uneconomical.
+a. CLV over CAC is key! Especially for subscription-based business, it’s all about time taken to recover your CAC and how much you can make per customer over his/her lifetime as a member. Key metrics, better than retention curve.&lt;/li&gt;
+  &lt;li&gt;when you can only afford to spend dozens of dollars acquiring a new customer, you need the biggest megaphone you can find.&lt;/li&gt;
+  &lt;li&gt;Clamor and frenzy are very real, but they rarely happen without calculated recruiting and pitching beneath the surface.&lt;/li&gt;
+  &lt;li&gt;computers are complements for humans, not substitutes.&lt;/li&gt;
+  &lt;li&gt;Americans fear technology in the near future because they see it as a replay of the globalization of the near past. But the situations are very different.&lt;/li&gt;
+  &lt;li&gt;People have intentionality — we form plans and make decisions in complicated situations. We’re less good at making sense of enormous amounts of data. Computers are exactly the opposite: they excel at efficient data processing, but they struggle to make basic judgments that would be simple for any human.&lt;/li&gt;
+  &lt;li&gt;if humans and computers together could achieve dramatically better results than either could attain alone, what other valuable businesses could be built on this core principle?&lt;/li&gt;
+  &lt;li&gt;Today’s companies have an insatiable appetite for data, mistakenly believing that more data always creates more value. But big data is usually dumb data.&lt;/li&gt;
+  &lt;li&gt;Actionable insights can only come from a human analyst (or the kind of generalized artificial intelligence that exists only in science fiction).&lt;/li&gt;
+  &lt;li&gt;Instead, they’ll ask: how can computers help humans solve hard problems?&lt;/li&gt;
+  &lt;li&gt;seven questions that every business must answer: 1. The Engineering Question Can you create breakthrough technology instead of incremental improvements? 2. The Timing Question Is now the right time to start your particular business? 3. The Monopoly Question Are you starting with a big share of a small market? 4. The People Question Do you have the right team? 5. The Distribution Question Do you have a way to not just create but deliver your product? 6. The Durability Question Will your market position be defensible 10 and 20 years into the future? 7. The Secret Question Have you identified a unique opportunity that others don’t see?
+a. Great checklist!&lt;/li&gt;
+  &lt;li&gt;That starts with asking yourself: what will the world look like 10 and 20 years from now, and how will my business fit in?&lt;/li&gt;
+  &lt;li&gt;Social entrepreneurs aim to combine the best of both worlds and “do well by doing good.” Usually they end up doing neither.&lt;/li&gt;
+  &lt;li&gt;Whatever is good enough to receive applause from all audiences can only be conventional, like the general idea of green energy.&lt;/li&gt;
+  &lt;li&gt;Progress isn’t held back by some difference between corporate greed and nonprofit goodness; instead, we’re held back by the sameness of both. Just as corporations tend to copy each other, nonprofits all tend to push the same priorities.&lt;/li&gt;
+  &lt;li&gt;The best projects are likely to be overlooked, not trumpeted by a crowd; the best problems to work on are often the ones nobody else even tries to solve.&lt;/li&gt;
+  &lt;li&gt;The macro need for energy solutions is still real. But a valuable business must start by finding a niche and dominating a small market.&lt;/li&gt;
+  &lt;li&gt;Paradoxically, the challenge for the entrepreneurs who will create Energy 2.0 is to think small.
+a. Echoing his point that you need to start small.&lt;/li&gt;
+  &lt;li&gt;Almost all successful entrepreneurs are simultaneously insiders and outsiders.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Item one
-    &lt;ul&gt;
-      &lt;li&gt;sub item one&lt;/li&gt;
-      &lt;li&gt;sub item two&lt;/li&gt;
-      &lt;li&gt;sub item three&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
-  &lt;li&gt;Item three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;definition-lists&quot;&gt;Definition Lists&lt;/h3&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;kramdown&lt;/dt&gt;
-  &lt;dd&gt;A Markdown-superset converter&lt;/dd&gt;
-  &lt;dt&gt;Maruku&lt;/dt&gt;
-  &lt;dd&gt;Another Markdown-superset converter&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h1 id=&quot;tables&quot;&gt;Tables&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h1&gt;
-
-&lt;p&gt;Syntax highlighting via Rouge&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Non Pygments code example&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
-    &amp;lt;p&amp;gt;This is great isn't it?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
-				<pubDate>Mon, 15 Aug 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2016-08-15/style-test/</link>
-				<guid isPermaLink="true">http://localhost:4000/2016-08-15/style-test/</guid>
+				<pubDate>Sun, 15 May 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2016-05-15/125-things-i-learned-from-zero-to-one/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016-05-15/125-things-i-learned-from-zero-to-one/</guid>
 			</item>
 		
 			<item>
-				<title>Syntax Highlighting Post</title>
-				<description>&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;highlighted-code-blocks&quot;&gt;Highlighted Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/_sass/_highlighter.scss&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    {% if page.previous %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'_layouts'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'tag_index.html'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Tagged: '&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;amp;#8211;'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'description'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub Gist Embed&lt;/h3&gt;
-
-&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/mmistakes/43a355923921d22cd993.js&quot;&gt;&lt;/script&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-				<pubDate>Fri, 16 Aug 2013 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2013-08-16/code-highlighting-post/</link>
-				<guid isPermaLink="true">http://localhost:4000/2013-08-16/code-highlighting-post/</guid>
-			</item>
-		
-			<item>
-				<title>Sample Link Post</title>
+				<title>Session With Qi Lu</title>
 				<description>
+&lt;p&gt;&lt;em&gt;This article was first written on May 13, 2016. With Qi’s departure from Microsoft, I found it refreshing to revisit the session with him, and find renewed inspirations from him. Good luck Qi in your future endeavor.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As part of my COS448 experience we were very fortunate to have Qi Lu from Microsoft calling today for a casual fireside chat. Below is some takeaways I jotted down.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. What are the three most useful things that you learned from this guest speaker or session that you didn’t know before, or that you hadn’t thought about much before, and that you think you are likely to carry with you going forward?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first thing I learned is Qi’s view on innovation, “product is the core, technology is the foundation, business is the make-or-break” — it’s only by intersecting the three inter-related areas together, finding the common denominator among human desirability, technology feasibility and business viability, that we can find a sustainable product that is wanted by consumers and profitable. All business ventures and product developments need to focus on testing these three areas before coming to any conclusions.&lt;/p&gt;
+
+&lt;p&gt;Secondly, I learned that in the life cycle of innovation, Qi thinks that the most difficult challenge lies in “Go-to-Market”: it’s vital for business to expose the product to the maximum right audience at the right time as fast as possible, and there is as much technicality, expertise and complexity as luck in its success.&lt;/p&gt;
+
+&lt;p&gt;Thirdly, I found the stories he shared, both about Yahoo and Microsoft, very interesting and enlightening. Especially on the browser war, I didn’t even think deep enough about the essence of our online experience, and Qi teased out his take as the experience is closely tied to search (which dictates discovery, access and interaction processes). As I’m developing apps for this class and thinking about mobile options, it’s imperative that I understand what WWW really means to users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. What surprised you most?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It surprised me a lot when Qi said Microsoft had won the browser war by having a superior product Internet Explorer (because of its expandability and compatibility), and I, being a millennial, was like “when did this happen?” I guess Microsoft had won the war in the sense that it defeated Netscape in market share — yet the victory was brief, and no one today would certainly regard IE as a good product (even Microsoft itself, since it has publicized Edge, an IE replacement, a great deal).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. What did you like most about the speaker or the session?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qi’s insight and organization (as seen from his slides) impressed me a lot — and his observation of the industry resonated with me and taught me a great deal.
+What do you think of Microsoft? It’s gotten so big that I struggle to find a single adjective to sum up my impression of Microsoft; yet it’s amazing how Microsoft seems to have reinvented itself and remained relevant for so long.&lt;/p&gt;
 </description>
-				<pubDate>Mon, 12 Aug 2013 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2013-08-12/sample-link-post/</link>
-				<guid isPermaLink="true">http://localhost:4000/2013-08-12/sample-link-post/</guid>
-			</item>
-		
-			<item>
-				<title>Testing Readability with a Bunch of Text</title>
-				<description>&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage&lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
-
-&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
-
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 22 May 2012 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2012-05-22/readability-post/</link>
-				<guid isPermaLink="true">http://localhost:4000/2012-05-22/readability-post/</guid>
+				<pubDate>Wed, 13 May 2015 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2015-05-13/Session-with-Qi-Lu/</link>
+				<guid isPermaLink="true">http://localhost:4000/2015-05-13/Session-with-Qi-Lu/</guid>
 			</item>
 		
 	</channel>
