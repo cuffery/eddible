@@ -5,7 +5,7 @@ description: ""
 ---
 {% include header.html %}
 
-# About me
+# about me
 
 I'm a Business Consultant working for Applied Predictive Technologies. Before this, I graduated with a Bachelor of Science and Engineering degree from Princeton University.
 
@@ -13,10 +13,10 @@ You can find my Linkedin page and ways to contact at the bottom of the page.
 
 In my free time, I love reading, hiking, watching/playing basketball, and occasionally maintaining this blog.
 
-# About this blog
+# about this blog
 This blog is built off the Kiko Plus Theme from [@aweekj](https://aweekj.github.io/Kiko-plus), powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).
 
-# My Resume
+# my Resume
 **Education**
 
 2012-2016
