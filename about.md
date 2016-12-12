@@ -41,7 +41,7 @@ Aug 2016 - Present
 - Working with sales teams to track new verticals and potential target companies, and share intellegience in bi-weekly meetings with senior executives in the firm  
 
 May 2015 - Aug 2015
-:   **Business Consultant Intern**, Applied Predictive Technologies, Washington D.C.
+:   **Business Consultant Intern**, Applied Predictive Technologies, Washington D.C.  
 - Served as an **analyst** on client teams for a **regional bank** and an **apparel retailer**  
 - Evaluated and modeled success of new initiatives using financial and store level data  
 - Led presentations on client site and maintained close working relationship with **client senior management** teams  
