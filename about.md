@@ -16,7 +16,7 @@ In my free time, I love reading, hiking, watching/playing basketball, and occasi
 # about this blog
 This blog is built off the Kiko Plus Theme from [@aweekj](https://aweekj.github.io/Kiko-plus), powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).
 
-# my Resume
+# my resume
 **Education**
 
 2012-2016
