@@ -6,9 +6,8 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>125 Things I Learned From Zero To One</title>
-				<description>
-&lt;p&gt;I just finished reading Peter Thiel’s classic work yesterday, and thought to compile my Kindle highlights with my brief remarks for both sharing and self-reflection purposes. You will find Thiel’s opinions in quote below and my remarks under some of them.&lt;/p&gt;
+				<title>125 Things I learned from Zero to One</title>
+				<description>&lt;p&gt;I just finished reading Peter Thiel’s classic work yesterday, and thought to compile my Kindle highlights with my brief remarks for both sharing and self-reflection purposes. You will find Thiel’s opinions in quote below and my remarks under some of them.&lt;/p&gt;
 
 &lt;p&gt;Overall, an incredibly insightful book with a lot points echoed by numerous entrepreneurs I’ve met through my time in Princeton. Worth re-reading later.&lt;/p&gt;
 
@@ -226,9 +225,8 @@ a. Echoing his point that you need to start small.&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>Session With Qi Lu</title>
-				<description>
-&lt;p&gt;&lt;em&gt;This article was first written on May 13, 2016. With Qi’s departure from Microsoft, I found it refreshing to revisit the session with him, and find renewed inspirations from him. Good luck Qi in your future endeavor.&lt;/em&gt;&lt;/p&gt;
+				<title>Session with Qi Lu</title>
+				<description>&lt;p&gt;&lt;em&gt;This article was first written on May 13, 2016. With Qi’s departure from Microsoft, I found it refreshing to revisit the session with him, and find renewed inspirations from him. Good luck Qi in your future endeavor.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;As part of my COS448 experience we were very fortunate to have Qi Lu from Microsoft calling today for a casual fireside chat. Below is some takeaways I jotted down.&lt;/em&gt;&lt;/p&gt;
 
@@ -249,9 +247,9 @@ a. Echoing his point that you need to start small.&lt;/li&gt;
 &lt;p&gt;Qi’s insight and organization (as seen from his slides) impressed me a lot — and his observation of the industry resonated with me and taught me a great deal.
 What do you think of Microsoft? It’s gotten so big that I struggle to find a single adjective to sum up my impression of Microsoft; yet it’s amazing how Microsoft seems to have reinvented itself and remained relevant for so long.&lt;/p&gt;
 </description>
-				<pubDate>Wed, 13 May 2015 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2015-05-13/Session-with-Qi-Lu/</link>
-				<guid isPermaLink="true">http://localhost:4000/2015-05-13/Session-with-Qi-Lu/</guid>
+				<pubDate>Sun, 15 May 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2016-05-15/Session-with-Qi-Lu/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016-05-15/Session-with-Qi-Lu/</guid>
 			</item>
 		
 	</channel>

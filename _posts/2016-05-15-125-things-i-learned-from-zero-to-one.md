@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: "125 Things I learned from Zero to One"
+description: "A ton of lessons from Peter Thiel's masterpiece"
+date: 2016-05-15
+tags: [Peter Thiel, Reading, Notes, Startup, Entrepreneurship]
+comments: true
+share: true
+---
 I just finished reading Peter Thiel’s classic work yesterday, and thought to compile my Kindle highlights with my brief remarks for both sharing and self-reflection purposes. You will find Thiel’s opinions in quote below and my remarks under some of them.
 
 Overall, an incredibly insightful book with a lot points echoed by numerous entrepreneurs I’ve met through my time in Princeton. Worth re-reading later.

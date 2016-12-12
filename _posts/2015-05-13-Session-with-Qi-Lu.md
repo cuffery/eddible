@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: "Session with Qi Lu"
+description: "Class notes after session with one of Microsoft's most senior and respected executives"
+date: 2016-05-15
+tags: [Qi Lu, Microsoft, Notes, Entrepreneurship, Innovation]
+comments: true
+share: true
+---
 *This article was first written on May 13, 2016. With Qi's departure from Microsoft, I found it refreshing to revisit the session with him, and find renewed inspirations from him. Good luck Qi in your future endeavor.*
 
 *As part of my COS448 experience we were very fortunate to have Qi Lu from Microsoft calling today for a casual fireside chat. Below is some takeaways I jotted down.*
