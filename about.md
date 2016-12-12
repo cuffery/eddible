@@ -35,10 +35,10 @@ This blog is built off the Kiko Plus Theme from [@aweekj](https://aweekj.github.
 
 Aug 2016 - Present
 :    **Business Consultant**, Applied Predictive Technologies, San Francisco, CA  
-* Serving as an **analyst** on client teams for a national telecommunications company, a national furniture company and a national apparel brand
-* Managing and owning **data processes** on various client projects with **SQL Server** and **Data Imports**
-* Working with **firm knowledge management** team to document the best practices of various types of analyses in mass media studies
-* Working with sales teams to track new verticals and potential target companies, and share intellegience in bi-weekly meetings with senior executives in the firm
+- Serving as an **analyst** on client teams for a national telecommunications company, a national furniture company and a national apparel brand
+- Managing and owning **data processes** on various client projects with **SQL Server** and **Data Imports**
+- Working with **firm knowledge management** team to document the best practices of various types of analyses in mass media studies
+- Working with sales teams to track new verticals and potential target companies, and share intellegience in bi-weekly meetings with senior executives in the firm
 
 May 2015 - Aug 2015
 :   **Business Consultant Intern**, Applied Predictive Technologies, Washington D.C.
