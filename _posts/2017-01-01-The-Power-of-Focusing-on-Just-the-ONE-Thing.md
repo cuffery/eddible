@@ -14,6 +14,7 @@ Which brought us to this post.
 Similar to most self-help books, this one takes little time to finish - and the whole book centers around the one theme that you've probably already guessed: **Think BIG (and as BIG as you want), but focus on ONE SPECIFIC thing at a time.**
 
 Here's a breakdown of the key concepts:
+
 ### The 6 Lies:
 
 **1. Everything matters equally.** (Nah, everybody knows not all things are created equal, especially when it comes to prioritization - any consultant would be glad to babble 80/20 to you and whip out examples, because it's one of the few truisms in the industry)
