@@ -17,9 +17,9 @@ It's not a book that offers earth-shattering truths or McKinsey's proprietary kn
 
 Here's a breakdown of the book in terms of **the key concepts** that I find useful: 
 
-- **The MECE Rule:** (perhaps the most famous) MCEC stands for "mutually exclusive and collectively exhaustive"; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution. 
+-**The MECE Rule:** (perhaps the most famous) MCEC stands for "mutually exclusive and collectively exhaustive"; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution. 
 
-- McKinsey's approach is summarized into **3 pillars**: 
+-McKinsey's approach is summarized into **3 pillars**: 
 
 	1. Fact-based
 	2. Rigidly structured
@@ -31,7 +31,7 @@ While I think this is awesome and should be **the general structure for problem-
 	2. Statistically significant (and beware of the common pitfall of p-values)
 	3. Actionable (an insight is worthless if the client can't act on it or implement it easily)
 
-- Common **tools** and **frameworks** that McKinsey consultants use (or really just any consultant at MBB): (this section also contains a ton of consulting jargons that if not used properly, become nonsense/bs/jibberish very quickly and easily)
+-Common **tools** and **frameworks** that McKinsey consultants use (or really just any consultant at MBB): (this section also contains a ton of consulting jargons that if not used properly, become nonsense/bs/jibberish very quickly and easily)
 
 	1. 80/20 Rule: 
 	The most commonly used phrase, saying 80% of your results come from 20% of your work, 80% of your sales come from 20% of your clients, etc - this is definitely a rule every consultant lives by. It echoes the larger point, which is prioritization. This is also a great segway into my post yesterday on "The ONE Thing", as you should recognize your "ONE Thing" that will deliver you the most value, and go after it. 
