@@ -6,6 +6,85 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Live the McKinsey Way</title>
+				<description>&lt;p&gt;I suspect every business school student, every management consultant and every consultant-wanna-be have read or bought this book, and for a very good reason: it offers a rare glimpse into one of the world’s most elite and successful business organizations, McKinsey and Company.&lt;/p&gt;
+
+&lt;p&gt;It’s almost a shame for me that it took me this long to read a book with such big font and wide margin; but nevertheless prolonging the reading process (which was definitely planned btw) has given me plenty opportunities to use the book as a lens from 30,000 feet above the ground to examine my day-to-day life as a consultant. This hopefully helps drive to a more balanced &lt;strong&gt;verdict&lt;/strong&gt; (in contrary to the most 1-start reviews you would find on Amazon):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;It offers quite a number of golden nuggets - insights that are helpful for beginners, altought most of the book contains generic trite that you will find in any consulting books.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s not a book that offers earth-shattering truths or McKinsey’s proprietary knowledge (you really shouldn’t expect so in the first place); instead, it serves more of a quick primer for someone with absolutely no idea of consulting or McKinsey. The book’s insight can really be summarized into 3 pages or my single post (which is this one); &lt;strong&gt;so don’t buy it, but really read it before your junior year recruiting season, or before you begin your job as a consultant.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a breakdown of the book in terms of &lt;strong&gt;the key concepts&lt;/strong&gt; that I find useful:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The MECE Rule:&lt;/strong&gt; (perhaps the most famous) MCEC stands for “mutually exclusive and collectively exhaustive”; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McKinsey’s approach is summarized into &lt;strong&gt;3 pillars&lt;/strong&gt;:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Fact-based&lt;/li&gt;
+      &lt;li&gt;Rigidly structured&lt;/li&gt;
+      &lt;li&gt;Hypothesis driven&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While I think this is awesome and should be &lt;strong&gt;the general structure for problem-solving everywhere&lt;/strong&gt;, my time so far at APT has added the following guidelines to my go-to framework:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. Analytically rigorous
+2. Statistically significant (and beware of the common pitfall of p-values)
+3. Actionable (an insight is worthless if the client can't act on it or implement it easily)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Common &lt;strong&gt;tools&lt;/strong&gt; and &lt;strong&gt;frameworks&lt;/strong&gt; that McKinsey consultants use (or really just any consultant at MBB): (this section also contains a ton of consulting jargons that if not used properly, become nonsense/bs/jibberish very quickly and easily)&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;80/20 Rule: 
+  The most commonly used phrase, saying 80% of your results come from 20% of your work, 80% of your sales come from 20% of your clients, etc - this is definitely a rule every consultant lives by. It echoes the larger point, which is prioritization. This is also a great segway into my post yesterday on “The ONE Thing”, as you should recognize your “ONE Thing” that will deliver you the most value, and go after it.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Don’t boil the Ocean： 
+  Work smarter, not harder! Well the assumption is that you will always work hard,&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Find the KEY DRIVERS (that affect your business)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The Elevator Test (You should be able to explain your solution in 30 seconds)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Seize every small opportunities while solving a problem (these will boost the morale and your credibility among the clients)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Always think of the big picture:
+  This&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Learn to say “I don’t know”:
+  Always have humility! Definitely a good reminder as consultants tend to&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Don’t accept “I have no idea”&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Mon, 02 Jan 2017 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2017-01-02/Live-the-McKinsey-Way/</link>
+				<guid isPermaLink="true">http://localhost:4000/2017-01-02/Live-the-McKinsey-Way/</guid>
+			</item>
+		
+			<item>
 				<title>The Power of Focusing on the ONE Thing</title>
 				<description>&lt;p&gt;I came across this book by just walking past one of my colleagues’ desk (actually, my Engagement Manager’s) one day. While little notice was given to this conspicuously self-evident self-help book (you could probably guess the content given its title and its whereabouts - a consulting firm), my interest was nonetheless piqued when my EM passed the book to the colleague sitting next to me. He spoke highly of the book, and I reasoned: this man is smart and an experienced and successfully business consultant; if he thinks it’s worth recommending to his colleagues, there’s probably something to this book and I should read too.&lt;/p&gt;
 
@@ -14,6 +93,7 @@
 &lt;p&gt;Similar to most self-help books, this one takes little time to finish - and the whole book centers around the one theme that you’ve probably already guessed: &lt;strong&gt;Think BIG (and as BIG as you want), but focus on ONE SPECIFIC thing at a time.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s a breakdown of the key concepts:&lt;/p&gt;
+
 &lt;h3 id=&quot;the-6-lies&quot;&gt;The 6 Lies:&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Everything matters equally.&lt;/strong&gt; (Nah, everybody knows not all things are created equal, especially when it comes to prioritization - any consultant would be glad to babble 80/20 to you and whip out examples, because it’s one of the few truisms in the industry)&lt;/p&gt;
