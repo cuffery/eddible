@@ -19,7 +19,7 @@ Here's a breakdown of the book in terms of **the key concepts** that I find usef
 
 -**The MECE Rule:** (perhaps the most famous) MCEC stands for "mutually exclusive and collectively exhaustive"; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution. 
 
--McKinsey's approach is summarized into **3 pillars**: 
+- McKinsey's approach is summarized into **3 pillars**: 
 
 	1. Fact-based
 	2. Rigidly structured
@@ -31,24 +31,24 @@ While I think this is awesome and should be **the general structure for problem-
 	2. Statistically significant (and beware of the common pitfall of p-values)
 	3. Actionable (an insight is worthless if the client can't act on it or implement it easily)
 
--Common **tools** and **frameworks** that McKinsey consultants use (or really just any consultant at MBB): (this section also contains a ton of consulting jargons that if not used properly, become nonsense/bs/jibberish very quickly and easily)
+- Common **tools** and **frameworks** that McKinsey consultants use (or really just any consultant at MBB): (this section also contains a ton of consulting jargons that if not used properly, become nonsense/bs/jibberish very quickly and easily)
 
-	1. 80/20 Rule: 
-	The most commonly used phrase, saying 80% of your results come from 20% of your work, 80% of your sales come from 20% of your clients, etc - this is definitely a rule every consultant lives by. It echoes the larger point, which is prioritization. This is also a great segway into my post yesterday on "The ONE Thing", as you should recognize your "ONE Thing" that will deliver you the most value, and go after it. 
+1. 80/20 Rule: 
+The most commonly used phrase, saying 80% of your results come from 20% of your work, 80% of your sales come from 20% of your clients, etc - this is definitely a rule every consultant lives by. It echoes the larger point, which is prioritization. This is also a great segway into my post yesterday on "The ONE Thing", as you should recognize your "ONE Thing" that will deliver you the most value, and go after it. 
 
-	2. Don't boil the Ocean： 
-	Work smarter, not harder! Well the assumption is that you will always work hard, 
+2. Don't boil the Ocean： 
+Work smarter, not harder! Well the assumption is that you will always work hard, 
 
-	3. Find the KEY DRIVERS (that affect your business)
+3. Find the KEY DRIVERS (that affect your business)
 	
-	4. The Elevator Test (You should be able to explain your solution in 30 seconds)
+4. The Elevator Test (You should be able to explain your solution in 30 seconds)
 
-	5. Seize every small opportunities while solving a problem (these will boost the morale and your credibility among the clients)
+5. Seize every small opportunities while solving a problem (these will boost the morale and your credibility among the clients)
 
-	6. Always think of the big picture:
-	This
+6. Always think of the big picture:
+This
 
-	7. Learn to say "I don't know":
+7. Learn to say "I don't know":
 	Always have humility! Definitely a good reminder as consultants tend to 
 
 	8. Don't accept "I have no idea"
