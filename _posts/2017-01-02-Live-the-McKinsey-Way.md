@@ -18,9 +18,7 @@ It's not a book that offers earth-shattering truths or McKinsey's proprietary kn
 Here's a breakdown of the book in terms of **the key concepts** that I find useful: 
 
 ### The McKinsey Way of Thinking About Business Problems
-
 - **The MECE Rule:** (perhaps the most famous) MCEC stands for "mutually exclusive and collectively exhaustive"; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution. 
-
 
 - McKinsey's approach is summarized into **3 pillars**: 
 
