@@ -59,4 +59,33 @@ While I think this is awesome and should be **the general structure for problem-
   - Ask open-ended questions
   - Be sensible, be nice, don't leave your interviewees naked! (another example of trite in this book…)
 - About brainstorming:
-  - It's the sine qua non of strategic consulting; it's the bread and butter of what we do and largely why we exist; 
+  - It's the sine qua non of strategic consulting; it's the bread and butter of what we do and largely why we exist; Why? Most large, modern corporations are full of smart people that know their business and are really good at problem-solving; but consultants (here McK consultants) offer a new mindset, an outsider's view that is not "the company way"
+    - Definitely holds some truth to the statement, but not exactly applicable to APT and what is now known as SaaS or F(unction)aaS - we offer capabilities that are just straight-up lacking among clients
+
+### The McKinsey Way of Selling Solutions
+
+- Making Presentations
+  - A large part of our job is to make "decks", i.e. Powerpoint presentations; it ties into the larger point of communications
+  - **In fact, I can summarize my job so far in the list below:**
+    - Consulting is…
+      - Problem Solving, which includes
+        - Structuring the problem
+        - Brainstorming for solutions
+        - Data Management / Due Diligence Gathering / Knowledge Base Lookup
+      - Communications
+        - Internal -> so your teammates will enjoy working with you and you can be more effective
+        - External -> so you can level-set expectations and build rapport with your clients
+      - Management
+        - Time -> work-life balance, 80/20
+        - Project
+        - People 
+          - Internal
+          - External (clients)
+  - Important to **pre-wire everything**! So nothing/no one will surprise you in the final readout…This has been practiced countless times despite looking staged at first glance. Consulting is much about the process as the end product
+
+### My Takeaways
+
+1. Actually all the feedback I received so far in my job makes sense and was covered at some point by the author; so for me, it's important to continue gathering feedback from all parties I've worked with. And for you, start soliciting feedback and write it down if you have never done so! 
+2. Understand that at the end of the day, this job is about being introspective: internalizing whatever is said to you, taken with utmost professionalism, and making yourself better day by day is the huge for your personal growth
+3. It never hurts to read self-help books that are industry standards even though they are boring and full of trite! I learned quite a bit from reading this book, and I'm encouraged to start reading the next one as soon as I finish typing up this post! (Spoiler: it's another self-help business book)
+
