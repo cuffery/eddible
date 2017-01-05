@@ -21,7 +21,6 @@ Here's a breakdown of the book in terms of **the key concepts** that I find usef
 
 - **The MECE Rule:** (perhaps the most famous) MCEC stands for "mutually exclusive and collectively exhaustive"; and it is evident as the Firm pursues clarity of thought and expression. Not just consultants, but everyone should observe this rule of MCEC whenever possible in their thinking process and communications, in order to achieve the best possible solution. 
 
-
 - McKinsey's approach is summarized into **3 pillars**: 
 
   1. Fact-based
@@ -88,4 +87,3 @@ While I think this is awesome and should be **the general structure for problem-
 1. Actually all the feedback I received so far in my job makes sense and was covered at some point by the author; so for me, it's important to continue gathering feedback from all parties I've worked with. And for you, start soliciting feedback and write it down if you have never done so! 
 2. Understand that at the end of the day, this job is about being introspective: internalizing whatever is said to you, taken with utmost professionalism, and making yourself better day by day is the huge for your personal growth
 3. It never hurts to read self-help books that are industry standards even though they are boring and full of trite! I learned quite a bit from reading this book, and I'm encouraged to start reading the next one as soon as I finish typing up this post! (Spoiler: it's another self-help business book)
-
