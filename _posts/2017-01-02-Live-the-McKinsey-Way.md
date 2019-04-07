@@ -46,7 +46,7 @@ While I think this is awesome and should be **the general structure for problem-
 
 ### The McKinsey Way of Working to Solve Business Problems
 
-- How to sell (with selling): 
+- How to sell (without selling): 
   - The key is to build a brand and don't actively go out and knock on people's doors; rather, let people come to you
   - As said in the book, "just be there, at the right time, and make sure the right people know who you are"
   - Easier said than done, which I think requires a lot of brand building, skilled marketing and content sharing
