@@ -23,7 +23,7 @@ Fall 2019
   
     Professional Master’s Program (PMP) (Upcoming, Part-time)
 
-2017-2019 (Expected)
+2017-2019
 :   **Graduate Certificate, Mining Massive Data**; Stanford University, Palo Alto, CA
 
     *GPA: 3.80; GRE: 338/340*  
